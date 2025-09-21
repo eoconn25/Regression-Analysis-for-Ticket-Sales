@@ -10,7 +10,8 @@ The purpose of this project was to demonstrate an ability to use basic R functio
 ### Exploratory Analysis
 After importing the data and converting columns to the appropriate data type, I began an exploratory analysis. This consisted of viewing summary statistics, such as the mean and variance for numeric variables and the level counts for categorical variables. Histograms were generated to view the distribution of numeric variables.  For categorical variables, bar graphs were created comparing the categorical variable to the response, Purchase_Again. When comparing categorical vairables to the response in this way, it seemed that the proportion of returning customers differed only slightly across levels; perhaps the relationship between some of these predictors and the response is quite weak.
 
-A few graphics created in the exploratory analysis:--
+A few graphics created in the exploratory analysis:
+<br/><br/>
 <img width="528" height="500" alt="image" src="https://github.com/user-attachments/assets/552bfbaf-1260-4990-a9af-afc73febd173" />
 <img width="528" height="500" alt="image" src="https://github.com/user-attachments/assets/f4371670-b08e-48d6-a40a-0198bfe84b7a" />
 
