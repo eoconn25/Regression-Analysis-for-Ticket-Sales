@@ -12,8 +12,12 @@ After importing the data and converting columns to the appropriate data type, I 
 
 A few graphics created in the exploratory analysis:
 <br/><br/>
-<img width="528" height="500" alt="image" src="https://github.com/user-attachments/assets/552bfbaf-1260-4990-a9af-afc73febd173" />
-<img width="528" height="500" alt="image" src="https://github.com/user-attachments/assets/f4371670-b08e-48d6-a40a-0198bfe84b7a" />
+<p align="center">
+  <img width="528" height="500" alt="image" src="https://github.com/user-attachments/assets/552bfbaf-1260-4990-a9af-afc73febd173" />
+</p>
+<p align="center">
+  <img width="528" height="500" alt="image" src="https://github.com/user-attachments/assets/f4371670-b08e-48d6-a40a-0198bfe84b7a" />
+</p>
 
 ### Model Fitting
 Following the data cleaning and exploratory analysis, I fit an intial regression model with all possible predictors. Since our independent variable, Purchase_Again, is a binary response, a logisic regression model is most appropriate. The p-values for all predictors were greater than the chosen significance level, α = 0.05, I concluded that none of the predictors had a statistically significant relationship with the response.--
